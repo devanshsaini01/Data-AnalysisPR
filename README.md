@@ -1,4 +1,4 @@
 # Data-AnalysisPR
-This reposatory is all about Data Analysis Projects.
+This reposatory is all about Customer Churn Analysis.
 <br>
 Author - Devansh Saini
